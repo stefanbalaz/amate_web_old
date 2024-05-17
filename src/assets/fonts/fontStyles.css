@@ -1,0 +1,35 @@
+/* Thin */
+
+@font-face {
+  font-family: "CervoNeue";
+  src: url("../fonts/CervoNeue-ThinNeue.otf");
+  font-weight: 200;
+  font-style: normal;
+}
+
+/* Medium */
+
+@font-face {
+  font-family: "CervoNeue";
+  src: url("../fonts/CervoNeue-MediumNeue.otf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Regular */
+
+@font-face {
+  font-family: "CervoNeue";
+  src: url("../fonts/CervoNeue-RegularNeue.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Bold */
+
+@font-face {
+  font-family: "CervoNeue";
+  src: url("../fonts/CervoNeue-BoldNeue.otf");
+  font-weight: bold;
+  font-style: normal;
+}
