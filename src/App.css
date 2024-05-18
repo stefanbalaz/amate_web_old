@@ -42,6 +42,9 @@ body {
   font-size: 1.25rem;
   font-weight: 300;
 }
+.cookie-container {
+  font-size: 1.25rem;
+}
 
 /* Media queries for small devices */
 
@@ -50,6 +53,9 @@ body {
     font-size: 2.5rem;
   }
   .text-1 {
+    font-size: 1.5rem;
+  }
+  .cookie-container {
     font-size: 1.5rem;
   }
 }
@@ -63,6 +69,9 @@ body {
   .text-1 {
     font-size: 1.75rem;
   }
+  .cookie-container {
+    font-size: 1.75rem;
+  }
 }
 
 /* Media queries for large devices */
@@ -72,6 +81,9 @@ body {
     font-size: 3.5rem;
   }
   .text-1 {
+    font-size: 2rem;
+  }
+  .cookie-container {
     font-size: 2rem;
   }
 }

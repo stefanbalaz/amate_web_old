@@ -12,7 +12,7 @@ export const contentData = [
   {
     headline: "CHUŤOVÉ VARIANTY",
     paragraph:
-      "Nápoj AMATE najlepšie chutí vychladený. Vynikne jemne horká a plná chuť maté; exotickú sviežosť nápoja zvýraznia jeho ochutené varianty s mätou, cukrovým melónom a konope. AMATE je vhodný na prípravu chutných alkoholických i nealkoholických longdrinkov a cocktailov. Najobľúbenejšími miešanými napojmi z AMATE sú jeho kombinácie s vínom, sektom, vodkou, ginom alebo rumom.",
+      "Nápoj AMATE najlepšie chutí vychladený. Vynikne jemne horká a plná chuť maté; exotickú sviežosť nápoja zvýraznia jeho ochutené varianty s mätou, cukrovým melónom, konope a zázvorom. AMATE je vhodný na prípravu chutných alkoholických i nealkoholických longdrinkov a cocktailov. Najobľúbenejšími miešanými napojmi z AMATE sú jeho kombinácie s vínom, sektom, vodkou, ginom alebo rumom.",
   },
   {
     headline: "PROJEKT AMATE",

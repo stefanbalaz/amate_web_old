@@ -6,6 +6,7 @@ import MainPicture from "./assets/components/MainPicture";
 import Content from "./assets/components/Content";
 import { contentData } from "./data/contentData";
 import SocialMedia from "./assets/components/SocialMedia";
+import CookieBar from "./assets/components/CookieBar";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Content data={contentData} />
       </div>
       <SocialMedia />
+      <CookieBar />
     </div>
   );
 }
