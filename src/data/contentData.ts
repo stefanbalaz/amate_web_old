@@ -29,4 +29,9 @@ export const contentData = [
     paragraph:
       "Maté je pralesná rastlina objavená v 16. storočí u juhoamerických Indiánov. Nápoj z maté sa v krajinách Južnej Ameriky postupne stal obľúbeným povzbudzujúcim nápojom družnosti, ktorý sa tradične pije v kruhu priateľov a rodiny. V posledných dvoch desaťročiach sa limonáda z maté stala najpopulárnejším trendovým nápojom v Berlíne a úspešne sa rozširuje na daľšie trhy v Európe.",
   },
+  {
+    headline: "KONTAKT",
+    paragraph:
+      "www.amate.sk | info@amate.sk | Ing. Juraj Baláž | +421 (0) 911 561 885",
+  },
 ];

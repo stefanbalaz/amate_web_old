@@ -19,15 +19,6 @@ const Content: React.FC<ContentProps> = ({ data }) => {
           </div>
         ))}
       </div>
-      {/* Footer */}
-      <div className="row">
-        <div className="col-lg-8 col-9 mx-auto mb-4">
-          <h1 className="headline-1 mb-3">KONTAKT</h1>
-          <article className="text-1 mb-3">
-            <Footer />
-          </article>
-        </div>
-      </div>
     </div>
   );
 };
