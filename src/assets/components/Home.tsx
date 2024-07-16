@@ -2,7 +2,7 @@ import MainPicture from "./MainPicture";
 import Content from "./Content";
 import { contentData } from "../../data/contentData";
 
-export function Home() {
+export default function Home() {
   return (
     <div className="container-fluid">
       <div className="row">

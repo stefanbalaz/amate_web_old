@@ -2,14 +2,6 @@ import MainPicture from "./MainPicture";
 
 export default function DataPrivacy() {
   return (
-    /*     <div className="container-fluid text-center">
-      <div className="row">
-        <MainPicture />
-      </div>
-      <div className="row">
-        <div className="col-lg-8 col-9 mx-auto mb-4">
-          <h1 className="headline-1 mb-3">OCHRANA OSOBNÝCH ÚDAJOV</h1>
-          <article className="text-1 mb-3"> */
     <div className="container-fluid text-center">
       <div className="row">
         <MainPicture />
