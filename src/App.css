@@ -6,11 +6,13 @@
   color: rgb(91, 91, 91);
 }
 
-.footer {
+footer {
   background-color: #fef9ea;
   color: rgb(91, 91, 91);
-  font-size: 2rem;
-  font-weight: 300;
+}
+
+nav {
+  color: rgb(91, 91, 91);
 }
 
 .row {
@@ -57,8 +59,15 @@ body {
   font-size: 1.25rem;
   font-weight: 300;
 }
-.cookie-container {
+
+footer {
   font-size: 1.25rem;
+  font-weight: 300;
+}
+
+nav {
+  font-size: 1.25rem;
+  font-weight: 300;
 }
 
 /* Media queries for small devices */
@@ -70,8 +79,13 @@ body {
   .text-1 {
     font-size: 1.5rem;
   }
-  .cookie-container {
+  footer {
     font-size: 1.5rem;
+    font-weight: 300;
+  }
+  nav {
+    font-size: 1.5rem;
+    font-weight: 300;
   }
 }
 
@@ -84,8 +98,13 @@ body {
   .text-1 {
     font-size: 1.75rem;
   }
-  .cookie-container {
+  footer {
     font-size: 1.75rem;
+    font-weight: 300;
+  }
+  nav {
+    font-size: 1.75rem;
+    font-weight: 300;
   }
 }
 
@@ -98,8 +117,13 @@ body {
   .text-1 {
     font-size: 2rem;
   }
-  .cookie-container {
+  footer {
     font-size: 2rem;
+    font-weight: 300;
+  }
+  nav {
+    font-size: 2rem;
+    font-weight: 300;
   }
 }
 
@@ -156,4 +180,11 @@ body {
   width: 1em;
   margin-left: -1em;
   text-align: center;
+}
+
+/* Logo */
+
+.logo-container img {
+  width: 100px; /* Adjust the width as needed */
+  height: auto;
 }

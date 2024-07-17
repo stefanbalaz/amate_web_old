@@ -1,6 +1,6 @@
 import MainPicture from "./MainPicture";
 import Content from "./Content";
-import { contentData } from "../../data/contentData";
+import { contentData } from "../data/contentData";
 
 export default function Home() {
   return (

@@ -1,4 +1,4 @@
-import amateMainImage from "../../../public/amate_main.png";
+import amateMainImage from "../../src/assets/amate_main_wide.png";
 
 export default function MainPicture() {
   return (
