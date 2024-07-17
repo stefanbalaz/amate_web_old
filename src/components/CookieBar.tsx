@@ -5,15 +5,12 @@ import ReactGA from "react-ga4";
 
 export default function Cookie() {
   useEffect(() => {
-    const currentHostname = window.location.hostname;
-    const domain = currentHostname.includes("www") ? "amate.sk" : "amate.sk";
-
     CookieConsent.run({
       disablePageInteraction: true,
       autoClearCookies: true,
       cookie: {
         name: "amate_web",
-        domain: domain,
+        domain: "amate.sk",
       },
       guiOptions: {
         consentModal: {
