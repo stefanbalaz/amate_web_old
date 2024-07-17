@@ -10,7 +10,7 @@ export default function Cookie() {
       autoClearCookies: true,
       cookie: {
         name: "amate_web",
-        domain: location.hostname,
+        domain: amate.sk,
       },
       guiOptions: {
         consentModal: {
