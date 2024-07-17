@@ -6,9 +6,7 @@ import ReactGA from "react-ga4";
 export default function Cookie() {
   useEffect(() => {
     const currentHostname = window.location.hostname;
-    const domain = currentHostname.includes("www")
-      ? "www.amate.sk"
-      : "amate.sk";
+    const domain = currentHostname.includes("www") ? "amate.sk" : "amate.sk";
 
     CookieConsent.run({
       disablePageInteraction: true,
